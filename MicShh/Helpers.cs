@@ -1,6 +1,4 @@
-﻿using GlobalHotKeys.Native.Types;
-
-namespace MicShh
+﻿namespace MicShh
 {
     public class Helpers
     {
